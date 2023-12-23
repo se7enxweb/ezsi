@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezsi-ls",
+    "name": "se7enxweb/ezsi-ls",
     "description": "eZ Publish Legacy Extension for server/edge side include functionality usable as template blocks",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0",
